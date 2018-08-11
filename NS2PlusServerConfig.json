@@ -9,8 +9,9 @@
   "modupdater":true,
   "modupdatercheckinterval":15,
   "modupdaterreminderinterval":5,
-  "savestats":false,
-  "show_avgteamskill":false,
-  "show_playerskill":false,
-  "show_probabilityofteamvictory":false
+  "savestats":true,
+  "show_avgteamskill":true,
+  "show_playerskill":true,
+  "show_probabilityofteamvictory":true,
+  "show_playerskill_pregame":true
 }
