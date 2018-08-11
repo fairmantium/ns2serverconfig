@@ -1,0 +1,5 @@
+{
+  "restrict":["lua/entry/*.entry"],
+  "check":["game_setup.xml","*.lua","*.hlsl","*.shader","*.screenfx","*.surface_shader","*.fxh","*.render_setup","*.shader_template","*.level","*.dds","*.cinematic","*.material","*.model","*.animation_graph","*.polygons","*.fev","*.hmp"],
+  "ignore":["ui/*.dds","*_view*.dds","*_view*.material","*_view*.model","models/marine/hands/*","sound/*_client.fev","shaders/DarkVision.hlsl","shaders/DarkVision.screenfx","shaders/DarkVision.shader","models/marine/male/flashlight.dds"]
+}

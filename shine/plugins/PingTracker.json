@@ -1,0 +1,7 @@
+{
+	"MeasureInterval" : 1,
+	"CheckInterval" : 60,
+	"Warn" : true,
+	"MaxPing" : 300,
+	"MaxJitter" : 100
+}

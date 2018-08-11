@@ -1,0 +1,25 @@
+{
+    "AllTalk": true,
+    "AllTalkLocal": false,
+    "AllTalkPreGame": true,
+    "AllTalkSpectator": true,
+    "BWLimit": 50,
+    "CommanderBotVoteDelayInSeconds": 300,
+    "DisableLuaRun": false,
+    "EjectVotesNeeded": 0.5,
+    "FriendlyFire": false,
+    "FriendlyFirePreGame": true,
+    "FriendlyFireScale": 1,
+    "GaggedPlayers": [],
+    "Interp": 100,
+    "MoveRate": 26,
+    "SendRate": 20,
+    "TickRate": 30,
+    "VoteSettings": {
+        "VoteKickPlayer": {
+            "AFKTimeInSeconds": 60,
+            "ConsiderAFKPlayersInVotes": true
+        }
+    },
+    "__Version": "1.3"
+}

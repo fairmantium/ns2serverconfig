@@ -1,0 +1,1 @@
+ModLoader.SetupFileHook("lua/NS2ConsoleCommands_Server.lua", "lua/UWEExtension/Build_321/NS2ConsoleCommands_Server.lua", "replace")

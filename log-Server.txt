@@ -1,0 +1,139 @@
+Date: 08/10/2018
+Time: 06:14:44 PM:
+--------------------------------------------------------------
+[  0.000] Main : Filesystem initialized, cache enabled
+Build 323.100
+Arch x86_64
+Server tickrate 30, client sendrate 20, bandwidth limit per player 51200
+Connected to Steam servers
+Mod : Fetching Extensions...
+Mod : Remote Host returned: 4241b84e
+Mod : Mounting Extension 4241b84e
+VAC Enabled
+Downloading mods
+Finished downloading and installing mods
+[  2.735] Worker 00 : Mounting mod 'UWE Extension' from /home/steam/.config/Natural Selection 2/Workshop/m4241b84e_1530752891/
+[  2.751] Worker 00 : Mounting mod 'Shine Administration' from /home/steam/.config/Natural Selection 2/Workshop/m706d242_1532252994/
+[  2.752] Worker 00 : Mounting mod '[Shine] Wonitor' from /home/steam/.config/Natural Selection 2/Workshop/m235ee3a6_1502027081/
+[  2.756] Worker 00 : Mounting mod '[Shine] Epsilon' from /home/steam/.config/Natural Selection 2/Workshop/mc6fbbb0_1512413799/
+[  2.762] Worker 00 : Mounting mod 'NS2+' from /home/steam/.config/Natural Selection 2/Workshop/m334982d2_1531516414/
+[  2.763] Worker 00 : Mounting mod 'Gorge Tunnel Control' from /home/steam/.config/Natural Selection 2/Workshop/m2efee4ec_1509443455/
+UWE-EXTENSION ServerConfig.lua loaded.
+Loading config://ServerConfig.json
+Loading config://ReservedSlotsConfig.json
+UWE-EXTENSION DamageTypes.lua loaded.
+UWE-EXTENSION NS2Gamerules.lua loaded.
+Resampling uncompressed animations at 1/2 frame rate to conserve memory
+UWE-EXTENSION AlienCommander.lua loaded.
+UWE-EXTENSION Weapons/Alien/Split.lua loaded.
+UWE-EXTENSION Weapons/Alien/LerkBite.lua loaded.
+UWE-EXTENSION Badges_Shared.lua loaded.
+[18:14:50]Loading Shine config...
+[18:14:50]Loading extensions...
+[18:14:50]- Extension 'ban' loaded.
+[18:14:50]- Extension 'basecommands' loaded.
+[18:14:50]- Extension 'mapvote' loaded.
+[18:14:50]- Extension 'motd' loaded.
+[18:14:50]- Extension 'unstuck' loaded.
+[18:14:50]- Extension 'usermanagement' loaded.
+[18:14:50]- Extension 'votesurrender' loaded.
+[18:14:50]- Error loading wonitor: You have not provided a path to the wonitor server. See readme.
+[18:14:50]Completed loading Shine extensions.
+Loading Shine users...
+[18:14:50]Shine started up successfully.
+[18:14:50]Loading config://ServerAdmin.json
+[18:14:50]Loading config://BannedPlayers.json
+[18:14:50]Loading config://MapCycle.json
+[18:14:50]Hashed 1 game_setup.xml files for consistency
+[18:14:50]Hashed 1225 *.lua files for consistency
+[18:14:50]Hashed 44 *.hlsl files for consistency
+[18:14:50]Hashed 37 *.shader files for consistency
+[18:14:50]Hashed 24 *.screenfx files for consistency
+[18:14:50]Hashed 196 *.surface_shader files for consistency
+[18:14:50]Hashed 1 *.fxh files for consistency
+[18:14:50]Hashed 5 *.render_setup files for consistency
+[18:14:50]Hashed 2 *.shader_template files for consistency
+[18:14:50]Hashed 29 *.level files for consistency
+[18:14:50]Hashed 6618 *.dds files for consistency
+[18:14:50]Hashed 986 *.cinematic files for consistency
+[18:14:51]Hashed 2416 *.material files for consistency
+[18:14:51]Hashed 4157 *.model files for consistency
+[18:14:51]Hashed 110 *.animation_graph files for consistency
+[18:14:51]Hashed 204 *.polygons files for consistency
+[18:14:51]Hashed 6 *.fev files for consistency
+[18:14:51]Hashed 12 *.hmp files for consistency
+[18:14:51]Skipped 683 ui/*.dds files for consistency
+[18:14:51]Skipped 172 *_view*.dds files for consistency
+[18:14:51]Skipped 76 *_view*.material files for consistency
+[18:14:51]Skipped 212 *_view*.model files for consistency
+[18:14:51]Skipped 29 models/marine/hands/* files for consistency
+[18:14:51]Skipped 1 sound/*_client.fev files for consistency
+[18:14:51]Skipped 1 shaders/DarkVision.hlsl files for consistency
+[18:14:51]Skipped 1 shaders/DarkVision.screenfx files for consistency
+[18:14:51]Skipped 1 shaders/DarkVision.shader files for consistency
+[18:14:51]Skipped 1 models/marine/male/flashlight.dds files for consistency
+[18:14:51]Hashed 4 lua/entry/*.entry files for consistency
+[18:14:51]Consistency checking took 1 seconds
+[18:14:51]INFO: LuaJIT setup: maxtrace=21000, maxmcode=35000
+[18:14:51]Loading config://NS2PlusServerConfig.json
+[18:14:52]------[NS2+ Server Settings]------
+[18:14:52]Blocked client options: drawviewmodel
+[18:14:52]Display team avg. skill: Disabled
+[18:14:52]Display team's probability of victory: Disabled
+[18:14:52]Display player skill pregame: Disabled
+[18:14:52]Display end game stats automatically on round end: Enabled
+[18:14:52]End game team stats scoreboard: Enabled
+[18:14:52]Save end round stats to file: Disabled
+[18:14:52]Mod updater: Enabled
+[18:14:52]	- Check every: 15 min.
+[18:14:52]	- Reminder interval: 5 min.
+[18:14:52]----------------------------------
+[  8.419] Worker 00 : Loading 'maps/ns2_summit.level'
+[  9.537] Worker 09 : Error: Unable to open 'models/effects/frag_metal_01.model' (usage 0x1)
+Loading pathing mesh for level maps/ns2_summit.level
+Finished loading 'maps/ns2_summit.level'
+Client connecting (192.168.86.1:55557)
+Client connected (192.168.86.1)
+[18:16:34]Client Authed. Steam ID: 34320830
+GorgeHub connected.
+[18:17:01]Client Authed. Steam ID: 0
+[18:17:01]Client Authed. Steam ID: 0
+[18:17:01]Client Authed. Steam ID: 0
+[18:17:01]Client Authed. Steam ID: 0
+[18:17:01]Client Authed. Steam ID: 0
+[18:17:01]Client Authed. Steam ID: 0
+[18:17:01]Client Authed. Steam ID: 0
+[18:17:01]Client Authed. Steam ID: 0
+[18:17:01]Client Authed. Steam ID: 0
+[18:17:01]Client Authed. Steam ID: 0
+[18:17:01]Client Authed. Steam ID: 0
+[18:17:24]"Lerk-3052": killed by 560
+[18:17:24][BOT] Flayra was killed by [BOT] Zefram
+[18:17:34]"Fade-233": killed by 3430
+[18:17:34][BOT] Obraxis was killed by [BOT] Squeal Like a 
+[18:17:47]"Fade-3002": killed by 976
+[18:17:47][BOT] Obraxis was killed by [BOT] Zinkey
+[18:17:56]"Fade-2160": killed by 976
+[18:17:56][BOT] puzl was killed by [BOT] Zinkey
+[18:17:59]"Fade-3859": killed by 976
+[18:17:59][BOT] Obraxis was killed by [BOT] Zinkey
+[18:18:05]"Fade-908": killed by 3682
+[18:18:05][BOT] puzl was killed by [BOT] Matso
+[18:18:09]"Fade-1651": killed by 560
+[18:18:09][BOT] Obraxis was killed by [BOT] Zefram
+[18:18:11]"Lerk-1923": killed by 2381
+[18:18:11][BOT] Flayra was killed by [BOT] Virsoul
+[18:18:17]"Onos-4001": killed by 2381
+[18:18:17][BOT] Crispix was killed by [BOT] Virsoul
+[18:18:17]"Marine-560": killed by 2097
+[18:18:17][BOT] Zefram was killed by [BOT] puzl
+[18:18:19]"Fade-2097": killed by 2510
+[18:18:19][BOT] puzl was killed by [BOT] Comprox
+[18:18:21]"Fade-1341": killed by 3430
+[18:18:21][BOT] Obraxis was killed by [BOT] Squeal Like a 
+[18:18:34]"Fade-282": killed by 3430
+[18:18:34][BOT] puzl was killed by [BOT] Squeal Like a 
+[18:18:35]"Marine-3430": killed by 3862
+[18:18:35][BOT] Squeal Like a  was killed by [BOT] Obraxis
+[18:18:36]"Fade-3862": killed by 2510
+[18:18:36][BOT] Obraxis was killed by [BOT] Comprox

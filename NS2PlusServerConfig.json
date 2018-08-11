@@ -1,0 +1,16 @@
+{
+  "allow_ambient":true,
+  "allow_deathstats":true,
+  "allow_drawviewmodel":false,
+  "allow_mapparticles":true,
+  "allow_nsllights":true,
+  "autodisplayendstats":true,
+  "endstatsteambreakdown":true,
+  "modupdater":true,
+  "modupdatercheckinterval":15,
+  "modupdaterreminderinterval":5,
+  "savestats":false,
+  "show_avgteamskill":false,
+  "show_playerskill":false,
+  "show_probabilityofteamvictory":false
+}

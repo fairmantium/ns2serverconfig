@@ -1,0 +1,7 @@
+{
+    "DelayBeforeMovingInSeconds": 0,
+    "DistanceToCheck": 6,
+    "MinTime": 5,
+    "TimeBetweenUse": 30,
+    "__Version": "1.1"
+}

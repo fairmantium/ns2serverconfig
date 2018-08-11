@@ -1,0 +1,53 @@
+{
+    "VoteCooldownInMinutes": 15,
+    "MinPlayers": 10,
+    "PercentNeeded": 0.75,
+    "NotifyOnVote": true,
+    "ApplyToBots": false,
+    "BalanceMode": "HIVE",
+    "FallbackMode": "KDR",
+    "StandardDeviationTolerance": 40,
+    "AverageValueTolerance": 0,
+    "VoteTimeout": 60,
+    "AlwaysEnabled": false,
+    "IgnoreCommanders": false,
+    "IgnoreSpectators": false,
+    "BlockAfterTime": 0,
+    "ReconnectLogTime": 0,
+    "HighlightTeamSwaps": false,
+    "DisplayStandardDeviations": false,
+    "TeamPreferences": {
+        "MaxHistoryRounds": 5,
+        "MinRoundLengthToRecordInSeconds": 300
+    },
+    "VoteConstraints": {
+        "MinPlayerFractionToConstrain": 0.9,
+        "MinAverageDiffToAllowShuffle": 0,
+        "MinStandardDeviationDiffToAllowShuffle": 0
+    },
+    "VotePassActions": {
+        "InGame": {
+            "DurationInMinutes": 15,
+            "EnforcementDurationType": "TIME",
+            "EnforcementPolicy": [ "ASSIGN_PLAYERS" ],
+            "ShufflePolicy": "INSTANT"
+        },
+        "PreGame": {
+            "DurationInMinutes": 15,
+            "EnforcementDurationType": "TIME",
+            "EnforcementPolicy": [ "ASSIGN_PLAYERS", "BLOCK_TEAMS" ],
+            "ShufflePolicy": "INSTANT"
+        }
+    },
+    "UseLocalFileStats": false,
+    "StatsRecording": {
+        "MinMinutesOnTeam":5,
+        "RookieStat":"Score",
+        "RookieBoundary":7500
+    },
+    "VoteSettings": {
+      "AFKTimeInSeconds": 60,
+      "ConsiderAFKPlayersInVotes": true
+    },
+    "__Version": "2.3"
+}

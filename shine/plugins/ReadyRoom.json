@@ -1,0 +1,8 @@
+{
+	"TrackReadyRoomPlayers" : true,
+	"MaxIdleTime" : 120,
+	"TimeToBlockF4" : 60,
+	"DisableSpectate" : false,
+	"TrackOnRoundStart" : true,
+	"NotifyOnTeamForce" : true
+}

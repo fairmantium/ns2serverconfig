@@ -1,0 +1,84 @@
+{
+    "AllowExtend": true,
+    "AlwaysExtend": true,
+    "BlockAfterRoundTimeInMinutes": 0,
+    "ChangeDelayInSeconds": 10,
+    "ChooseRandomOnTie": true,
+    "ConsiderSimilarMapsAsExtension": false,
+    "Constraints": {
+        "MapVote": {
+            "MinVotesRequired": {
+                "Type": "PERCENT",
+                "Value": 0.6
+            },
+            "MinVotesToFinish": {
+                "Type": "PERCENT",
+                "Value": 0.8
+            }
+        },
+        "NextMapVote": {
+            "MinVotesRequired": {
+                "Type": "ABSOLUTE",
+                "Value": 0
+            },
+            "MinVotesToFinish": {
+                "Type": "PERCENT",
+                "Value": 2
+            }
+        },
+        "StartVote": {
+            "MinPlayers": {
+                "Type": "ABSOLUTE",
+                "Value": 10
+            },
+            "MinVotesRequired": {
+                "Type": "PERCENT",
+                "Value": 0.6
+            }
+        }
+    },
+    "CycleOnEmpty": false,
+    "DontExtend": [],
+    "EmptyPlayerCount": 0,
+    "EnableNextMapVote": true,
+    "EnableRTV": true,
+    "ExcludeLastMaps": {
+        "Max": 0,
+        "Min": 0,
+        "UseStrictMatching": true
+    },
+    "ExtendTimeInMinutes": 15,
+    "ForceChangeWhenSecondsLeft": 60,
+    "ForceMenuOpenOnMapVote": false,
+    "ForcedMaps": [],
+    "GetMapsFromMapCycle": true,
+    "IgnoreAutoCycle": [],
+    "Maps": {
+        "ns2_biodome": true,
+        "ns2_descent": true,
+        "ns2_docking": true,
+        "ns2_eclipse": true,
+        "ns2_kodiak": true,
+        "ns2_mineshaft": true,
+        "ns2_refinery": true,
+        "ns2_summit": true,
+        "ns2_tram": true,
+        "ns2_veil": true
+    },
+    "MaxExtends": 1,
+    "MaxNominationsPerPlayer": 3,
+    "MaxOptions": 4,
+    "MaxRevotes": 1,
+    "NextMapVoteMapTimeFraction": 1,
+    "RoundLimit": 0,
+    "ShowVoteChoices": true,
+    "TieFails": false,
+    "VoteDelayInMinutes": 10,
+    "VoteLengthInMinutes": 1,
+    "VoteSettings": {
+        "AFKTimeInSeconds": 60,
+        "ConsiderAFKPlayersInVotes": true
+    },
+    "VoteTimeoutInSeconds": 60,
+    "__Version": "1.10"
+}

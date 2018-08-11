@@ -1,0 +1,52 @@
+local Build = Shared.GetBuildNumber()
+if Build == 318 then
+        modEntry = {
+            Client = "lua/UWEExtension/Build_318/Client.lua",
+            Server = "lua/UWEExtension/Build_318/Server.lua",
+            Shared = "lua/UWEExtension/Build_318/Shared.lua",
+            FileHooks = "lua/UWEExtension/Build_318/Filehook.lua",
+            Priority = 100
+        }
+elseif Build == 319 then
+    modEntry = {
+        Client = "lua/UWEExtension/Build_319/Client.lua",
+        Server = "lua/UWEExtension/Build_319/Server.lua",
+        Shared = "lua/UWEExtension/Build_319/Shared.lua",
+        FileHooks = "lua/UWEExtension/Build_319/Filehook.lua",
+        Priority = 100
+    }
+elseif Build == 320 then
+    modEntry = {
+        Client = "lua/UWEExtension/Build_320/Client.lua",
+        Server = "lua/UWEExtension/Build_320/Server.lua",
+        Shared = "lua/UWEExtension/Build_320/Shared.lua",
+        FileHooks = "lua/UWEExtension/Build_320/Filehook.lua",
+        Priority = 100
+    }
+elseif Build == 321 then
+    modEntry = {
+        Client = "lua/UWEExtension/Build_321/Client.lua",
+        Server = "lua/UWEExtension/Build_321/Server.lua",
+        Shared = "lua/UWEExtension/Build_321/Shared.lua",
+        FileHooks = "lua/UWEExtension/Build_321/Filehook.lua",
+        Priority = 100
+    }
+elseif Build == 322 then
+    modEntry = {
+        Client = "lua/UWEExtension/Build_322/Client.lua",
+        Server = "lua/UWEExtension/Build_322/Server.lua",
+        Shared = "lua/UWEExtension/Build_322/Shared.lua",
+        FileHooks = "lua/UWEExtension/Build_322/Filehook.lua",
+        Priority = 100
+    }
+elseif Build == 323 then
+    modEntry = {
+        Client = "lua/UWEExtension/Build_323/Client.lua",
+        Server = "lua/UWEExtension/Build_323/Server.lua",
+        Shared = "lua/UWEExtension/Build_323/Shared.lua",
+        FileHooks = "lua/UWEExtension/Build_323/Filehook.lua",
+        Priority = 100
+    }
+else
+    modEntry = {} --avoid console error
+end

@@ -1,0 +1,1069 @@
+Date: 08/09/2018
+Time: 11:59:04 PM:
+--------------------------------------------------------------
+[  0.000] Main : Filesystem initialized, cache enabled
+Build 323.100
+Arch x86_64
+Server tickrate 30, client sendrate 20, bandwidth limit per player 51200
+Connected to Steam servers
+Mod : Fetching Extensions...
+Mod : Remote Host returned: 4241b84e
+Mod : Mounting Extension 4241b84e
+VAC Enabled
+Downloading mods
+Finished downloading and installing mods
+[  2.463] Worker 00 : Mounting mod 'UWE Extension' from /home/steam/.config/Natural Selection 2/Workshop/m4241b84e_1530752891/
+[  2.472] Worker 00 : Mounting mod 'Shine Administration' from /home/steam/.config/Natural Selection 2/Workshop/m706d242_1532252994/
+[  2.472] Worker 00 : Mounting mod '[Shine] Wonitor' from /home/steam/.config/Natural Selection 2/Workshop/m235ee3a6_1502027081/
+[  2.472] Worker 00 : Mounting mod '[Shine] Epsilon' from /home/steam/.config/Natural Selection 2/Workshop/mc6fbbb0_1512413799/
+[  2.473] Worker 00 : Mounting mod 'NS2+' from /home/steam/.config/Natural Selection 2/Workshop/m334982d2_1531516414/
+[  2.473] Worker 00 : Mounting mod 'Gorge Tunnel Control' from /home/steam/.config/Natural Selection 2/Workshop/m2efee4ec_1509443455/
+UWE-EXTENSION ServerConfig.lua loaded.
+Loading config://ServerConfig.json
+Loading config://ReservedSlotsConfig.json
+UWE-EXTENSION DamageTypes.lua loaded.
+Resampling uncompressed animations at 1/2 frame rate to conserve memory
+UWE-EXTENSION NS2Gamerules.lua loaded.
+UWE-EXTENSION AlienCommander.lua loaded.
+UWE-EXTENSION Weapons/Alien/Split.lua loaded.
+UWE-EXTENSION Weapons/Alien/LerkBite.lua loaded.
+UWE-EXTENSION Badges_Shared.lua loaded.
+[23:59:07]Loading Shine config...
+[23:59:07]Loading extensions...
+[23:59:07]- Extension 'ban' loaded.
+[23:59:07]- Extension 'basecommands' loaded.
+[23:59:07]- Extension 'mapvote' loaded.
+[23:59:07]- Extension 'motd' loaded.
+[23:59:07]- Extension 'unstuck' loaded.
+[23:59:07]- Extension 'usermanagement' loaded.
+[23:59:07]- Extension 'votesurrender' loaded.
+[23:59:07]- Error loading wonitor: You have not provided a path to the wonitor server. See readme.
+[23:59:07]Completed loading Shine extensions.
+Loading Shine users...
+[23:59:07]Shine started up successfully.
+[23:59:07]Loading config://ServerAdmin.json
+[23:59:07]Loading config://BannedPlayers.json
+[23:59:07]Loading config://MapCycle.json
+[23:59:07]Hashed 1 game_setup.xml files for consistency
+[23:59:07]Hashed 1225 *.lua files for consistency
+[23:59:07]Hashed 44 *.hlsl files for consistency
+[23:59:07]Hashed 37 *.shader files for consistency
+[23:59:07]Hashed 24 *.screenfx files for consistency
+[23:59:07]Hashed 196 *.surface_shader files for consistency
+[23:59:08]Hashed 1 *.fxh files for consistency
+[23:59:08]Hashed 5 *.render_setup files for consistency
+[23:59:08]Hashed 2 *.shader_template files for consistency
+[23:59:08]Hashed 29 *.level files for consistency
+[23:59:08]Hashed 6618 *.dds files for consistency
+[23:59:08]Hashed 986 *.cinematic files for consistency
+[23:59:08]Hashed 2416 *.material files for consistency
+[23:59:08]Hashed 4157 *.model files for consistency
+[23:59:08]Hashed 110 *.animation_graph files for consistency
+[23:59:08]Hashed 204 *.polygons files for consistency
+[23:59:08]Hashed 6 *.fev files for consistency
+[23:59:08]Hashed 12 *.hmp files for consistency
+[23:59:08]Skipped 683 ui/*.dds files for consistency
+[23:59:08]Skipped 172 *_view*.dds files for consistency
+[23:59:08]Skipped 76 *_view*.material files for consistency
+[23:59:08]Skipped 212 *_view*.model files for consistency
+[23:59:08]Skipped 29 models/marine/hands/* files for consistency
+[23:59:08]Skipped 1 sound/*_client.fev files for consistency
+[23:59:08]Skipped 1 shaders/DarkVision.hlsl files for consistency
+[23:59:08]Skipped 1 shaders/DarkVision.screenfx files for consistency
+[23:59:08]Skipped 1 shaders/DarkVision.shader files for consistency
+[23:59:08]Skipped 1 models/marine/male/flashlight.dds files for consistency
+[23:59:08]Hashed 4 lua/entry/*.entry files for consistency
+[23:59:08]Consistency checking took 1 seconds
+[23:59:08]INFO: LuaJIT setup: maxtrace=20000, maxmcode=35000
+[23:59:08]Loading config://NS2PlusServerConfig.json
+[23:59:08]------[NS2+ Server Settings]------
+[23:59:08]Blocked client options: drawviewmodel
+[23:59:08]Display team avg. skill: Disabled
+[23:59:08]Display team's probability of victory: Disabled
+[23:59:08]Display player skill pregame: Disabled
+[23:59:08]Display end game stats automatically on round end: Enabled
+[23:59:08]End game team stats scoreboard: Enabled
+[23:59:08]Save end round stats to file: Disabled
+[23:59:08]Mod updater: Enabled
+[23:59:08]	- Check every: 15 min.
+[23:59:08]	- Reminder interval: 5 min.
+[23:59:08]----------------------------------
+[  4.245] Worker 05 : Error: Unable to open 'models/effects/frag_metal_01.model' (usage 0x1)
+[  4.407] Worker 00 : Loading 'maps/ns2_summit.level'
+Loading pathing mesh for level maps/ns2_summit.level
+Finished loading 'maps/ns2_summit.level'
+Client connecting (192.168.86.1:52213)
+Client connected (192.168.86.1)
+[23:59:23]Client Authed. Steam ID: 34320830
+GorgeHub connected.
+Client connecting (122.238.154.36:10445)
+Client connected (122.238.154.36)
+[00:29:21]Client Authed. Steam ID: 328657233
+Petdog connected.
+[00:31:06]Chat All - GorgeHub: What up.
+[00:31:14]Chat All - GorgeHub: The world needed another 12 v 12 server on the west coast
+[00:31:24]Chat All - GorgeHub: So i set one up.
+Client connecting (104.173.202.254:65183)
+Client disconnected (122.238.154.36:10445) Quit
+Client connected (104.173.202.254)
+[00:33:45]Client Authed. Steam ID: 3470880
+MarbleTyrant connected.
+[00:33:52]Client Authed. Steam ID: 0
+[00:33:52]Client Authed. Steam ID: 0
+[00:33:52]Client Authed. Steam ID: 0
+[00:33:52]Client Authed. Steam ID: 0
+[00:33:52]Client Authed. Steam ID: 0
+[00:33:52]Client Authed. Steam ID: 0
+[00:33:52]Client Authed. Steam ID: 0
+[00:33:52]Client Authed. Steam ID: 0
+[00:33:52]Client Authed. Steam ID: 0
+[00:33:52]Client Authed. Steam ID: 0
+[00:33:52]Client Authed. Steam ID: 0
+[00:34:05]Client Authed. Steam ID: 0
+[00:34:05]Client Authed. Steam ID: 0
+[00:34:05]Client Authed. Steam ID: 0
+[00:34:05]Client Authed. Steam ID: 0
+[00:34:05]Client Authed. Steam ID: 0
+[00:34:05]Client Authed. Steam ID: 0
+[00:34:05]Client Authed. Steam ID: 0
+[00:34:05]Client Authed. Steam ID: 0
+[00:34:05]Client Authed. Steam ID: 0
+[00:34:05]Client Authed. Steam ID: 0
+[00:34:05]Client Authed. Steam ID: 0
+[00:34:19]MarbleTyrant[3470880] ran command sh_motd with no arguments.
+[00:34:21]MarbleTyrant[3470880] ran command sh_votemap with no arguments.
+[00:34:30]"Marine-2664": killed by 3623
+[00:34:30][BOT] Bonkers was killed by [BOT] KungFuDiscoMon
+[00:34:34]"Marine-3068": killed by 1177
+[00:34:34][BOT] Relic25 was killed by [BOT] Obraxis
+[00:34:34]"Onos-3623": killed by 1217
+[00:34:34][BOT] KungFuDiscoMon was killed by [BOT] tommyd
+[00:34:37]"Marine-1217": killed by 1782
+[00:34:37][BOT] tommyd was killed by GorgeHub
+[00:34:38]"Marine-1350": killed by 1177
+[00:34:38][BOT] Brackhar was killed by [BOT] Obraxis
+[00:34:39]"Skulk-1782": killed by 1471
+[00:34:39]GorgeHub was killed by [BOT] Strayan
+[00:34:50]"Marine-1471": killed by 1177
+[00:34:50][BOT] Strayan was killed by [BOT] Obraxis
+[00:35:05]"Fade-395": killed by 2383
+[00:35:05][BOT] ScardyBob was killed by [BOT] Bonkers
+[00:35:09]"Marine-2383": killed by 3831
+[00:35:09][BOT] Bonkers was killed by GorgeHub
+[00:35:11]"Lerk-1177": killed by 2419
+[00:35:11][BOT] Obraxis was killed by [BOT] Relic25
+[00:35:15]"Marine-2419": killed by 3831
+[00:35:15][BOT] Relic25 was killed by GorgeHub
+[00:35:17]"Marine-1628": killed by 3831
+[00:35:17][BOT] tommyd was killed by GorgeHub
+[00:35:19]"Marine-3668": killed by 999
+[00:35:19][BOT] Brackhar was killed by [BOT] TychoCelchuuu
+[00:35:27]"Onos-55": killed by 1646
+[00:35:27][BOT] Railo was killed by [BOT] Strayan
+[00:35:31]"Fade-1335": killed by 1646
+[00:35:31][BOT] ScardyBob was killed by [BOT] Strayan
+[00:35:33]"Marine-1646": killed by 3343
+[00:35:33][BOT] Strayan was killed by [BOT] Obraxis
+[00:35:33]Client Authed. Steam ID: 0
+[00:35:40]"Lerk-3343": killed by 1121
+[00:35:40][BOT] Obraxis was killed by [BOT] Brackhar
+[00:35:44]"Onos-173": killed by 836
+[00:35:44][BOT] KungFuDiscoMon was killed by [BOT] Relic25
+[00:35:48]"Marine-836": killed by 2497
+[00:35:48][BOT] Relic25 was killed by [BOT] Railo
+Client disconnected (104.173.202.254:65183) Quit
+[00:35:55]"Fade-667": killed by 3943
+[00:35:55][BOT] ScardyBob was killed by [BOT] Ghoul
+[00:35:56]"Onos-2497": killed by 3787
+[00:35:56][BOT] Railo was killed by [BOT] Bonkers
+[00:36:10]"Marine-3787": killed by 2748
+[00:36:10][BOT] Bonkers was killed by [BOT] Obraxis
+[00:36:13]"Marine-3943": killed by 2748
+[00:36:13][BOT] Ghoul was killed by [BOT] Obraxis
+[00:36:19]"Lerk-2748": killed by 2658
+[00:36:19][BOT] Obraxis was killed by [BOT] tommyd
+[00:36:25]"Marine-2658": killed by 999
+[00:36:25][BOT] tommyd was killed by [BOT] TychoCelchuuu
+Network variable 'posx' of class 'Damage' has value -nan which is outside the range -1638.000000 to 1638.000000
+Network variable 'posy' of class 'Damage' has value -nan which is outside the range -1638.000000 to 1638.000000
+Network variable 'posz' of class 'Damage' has value -nan which is outside the range -1638.000000 to 1638.000000
+[00:36:31]"Marine-3696": killed by 673
+[00:36:31][BOT] Ghoul was killed by [BOT] KungFuDiscoMon
+[00:36:31]"Onos-999": killed by 3714
+[00:36:31][BOT] TychoCelchuuu was killed by [BOT] Relic25
+[00:36:36]"Onos-673": killed by 2830
+[00:36:36][BOT] KungFuDiscoMon was killed by [BOT] Strayan
+Network variable 'posx' of class 'Damage' has value -nan which is outside the range -1638.000000 to 1638.000000
+Network variable 'posy' of class 'Damage' has value -nan which is outside the range -1638.000000 to 1638.000000
+Network variable 'posz' of class 'Damage' has value -nan which is outside the range -1638.000000 to 1638.000000
+[00:36:47]"Marine-3714": killed by 3019
+[00:36:47][BOT] Relic25 was killed by [BOT] Railo
+[00:37:01]"Marine-1121": killed by 3257
+[00:37:01][BOT] Brackhar was killed by [BOT] KungFuDiscoMon
+[00:37:04]"Marine-2208": killed by 3257
+[00:37:04][BOT] tommyd was killed by [BOT] KungFuDiscoMon
+Network variable 'posx' of class 'Damage' has value -nan which is outside the range -1638.000000 to 1638.000000
+Network variable 'posy' of class 'Damage' has value -nan which is outside the range -1638.000000 to 1638.000000
+Network variable 'posz' of class 'Damage' has value -nan which is outside the range -1638.000000 to 1638.000000
+Network variable 'posx' of class 'Damage' has value -nan which is outside the range -1638.000000 to 1638.000000
+Network variable 'posy' of class 'Damage' has value -nan which is outside the range -1638.000000 to 1638.000000
+Network variable 'posz' of class 'Damage' has value -nan which is outside the range -1638.000000 to 1638.000000
+[00:37:13]"Fade-48": killed by 2830
+[00:37:13][BOT] ScardyBob was killed by [BOT] Strayan
+[00:37:34]"Lerk-1170": killed by 2830
+[00:37:34][BOT] Obraxis was killed by [BOT] Strayan
+[00:37:43]"Fade-583": killed by 4038
+[00:37:43][BOT] ScardyBob was killed by [BOT] tommyd
+Network variable 'posx' of class 'Damage' has value -nan which is outside the range -1638.000000 to 1638.000000
+Network variable 'posy' of class 'Damage' has value -nan which is outside the range -1638.000000 to 1638.000000
+Network variable 'posz' of class 'Damage' has value -nan which is outside the range -1638.000000 to 1638.000000
+[00:37:45]"Marine-4038": killed by 3019
+[00:37:45][BOT] tommyd was killed by [BOT] Railo
+Network variable 'posx' of class 'Damage' has value -nan which is outside the range -1638.000000 to 1638.000000
+Network variable 'posy' of class 'Damage' has value -nan which is outside the range -1638.000000 to 1638.000000
+Network variable 'posz' of class 'Damage' has value -nan which is outside the range -1638.000000 to 1638.000000
+Network variable 'posx' of class 'Damage' has value -nan which is outside the range -1638.000000 to 1638.000000
+Network variable 'posy' of class 'Damage' has value -nan which is outside the range -1638.000000 to 1638.000000
+Network variable 'posz' of class 'Damage' has value -nan which is outside the range -1638.000000 to 1638.000000
+[00:37:47]"Marine-2830": killed by 3019
+[00:37:47][BOT] Strayan was killed by [BOT] Railo
+[00:37:49]"Onos-3019": killed by 2482
+[00:37:49][BOT] Railo was killed by [BOT] Bonkers
+[00:37:51]"Skulk-3831": killed by 3367
+[00:37:51]GorgeHub was killed by [BOT] Brackhar
+Network variable 'posx' of class 'Damage' has value -nan which is outside the range -1638.000000 to 1638.000000
+Network variable 'posy' of class 'Damage' has value -nan which is outside the range -1638.000000 to 1638.000000
+Network variable 'posz' of class 'Damage' has value -nan which is outside the range -1638.000000 to 1638.000000
+Network variable 'posx' of class 'Damage' has value -nan which is outside the range -1638.000000 to 1638.000000
+Network variable 'posy' of class 'Damage' has value -nan which is outside the range -1638.000000 to 1638.000000
+Network variable 'posz' of class 'Damage' has value -nan which is outside the range -1638.000000 to 1638.000000
+[00:37:53]"Onos-3257": killed by 2482
+[00:37:53][BOT] KungFuDiscoMon was killed by [BOT] Bonkers
+[00:38:04]"Fade-2111": killed by 3367
+[00:38:04][BOT] ScardyBob was killed by [BOT] Brackhar
+[00:38:13]"Marine-2482": killed by 3143
+[00:38:13][BOT] Bonkers was killed by [BOT] Railo
+[00:38:15]"Marine-3624": killed by 3143
+[00:38:15][BOT] tommyd was killed by [BOT] Railo
+[00:38:24]"Onos-3143": killed by 2172
+[00:38:24][BOT] Railo was killed by [BOT] Ghoul
+[00:38:25]"Skulk-984": killed by 1109
+[00:38:25]GorgeHub was killed by [BOT] Bonkers
+[00:38:28]"Fade-2128": killed by 3367
+[00:38:28][BOT] ScardyBob was killed by [BOT] Brackhar
+[00:38:35]"Onos-3917": killed by 1109
+[00:38:35][BOT] TychoCelchuuu was killed by [BOT] Bonkers
+[00:38:52]"Fade-3487": killed by 3367
+[00:38:52][BOT] ScardyBob was killed by [BOT] Brackhar
+[00:38:59]"Onos-2705": killed by 1109
+[00:38:59][BOT] KungFuDiscoMon was killed by [BOT] Bonkers
+[00:39:02][BOT] Railo committed suicide
+[00:39:02]"Marine-1109": killed by 2371
+[00:39:02][BOT] Bonkers was killed by [BOT] Obraxis
+[00:39:05]Started Vote: VoteAddCommanderBots
+[00:39:06]"Lerk-2371": killed by 840
+[00:39:06][BOT] Obraxis was killed by [BOT] tommyd
+[00:39:07]"Marine-2172": killed by 3507
+[00:39:07][BOT] Ghoul was killed by [BOT] ScardyBob
+[00:39:09]"Fade-3507": killed by 2431
+[00:39:09][BOT] ScardyBob was killed by [BOT] Relic25
+[00:39:18]"Marine-840": killed by 424
+[00:39:18][BOT] tommyd was killed by [BOT] KungFuDiscoMon
+[00:39:27]"Fade-2940": killed by 3367
+[00:39:27][BOT] ScardyBob was killed by [BOT] Brackhar
+[00:39:30]Vote Complete: VoteAddCommanderBots. Successful? No
+[00:39:42]"Fade-3700": killed by 2250
+[00:39:42][BOT] ScardyBob was killed by [BOT] Bonkers
+[00:39:44]"Marine-2250": killed by 2392
+[00:39:44][BOT] Bonkers was killed by [BOT] Obraxis
+[00:39:47]"Lerk-2392": killed by 2431
+[00:39:47][BOT] Obraxis was killed by [BOT] Relic25
+[00:39:49]"Onos-43": killed by 3817
+[00:39:49][BOT] TychoCelchuuu was killed by [BOT] tommyd
+[00:40:00]"Marine-2431": killed by 1350
+[00:40:00][BOT] Relic25 was killed by [BOT] Railo
+[00:40:03]"Onos-424": killed by 3817
+[00:40:03][BOT] KungFuDiscoMon was killed by [BOT] tommyd
+[00:40:06]"Onos-1350": killed by 3367
+[00:40:06][BOT] Railo was killed by [BOT] Brackhar
+[00:40:16]"Onos-1338": killed by 3817
+[00:40:16][BOT] KungFuDiscoMon was killed by [BOT] tommyd
+[00:40:22]"Fade-3862": killed by 3817
+[00:40:22][BOT] ScardyBob was killed by [BOT] tommyd
+[00:40:23]"Lerk-1953": killed by 216
+[00:40:23][BOT] Obraxis was killed by [BOT] Ghoul
+[00:40:26]"Marine-3817": killed by 18
+[00:40:26][BOT] tommyd was killed by [BOT] Railo
+[00:40:30]"Onos-18": killed by 2801
+[00:40:30][BOT] Railo was killed by [BOT] Bonkers
+[00:40:37]"Fade-727": killed by 3555
+[00:40:37][BOT] ScardyBob was killed by [BOT] Relic25
+[00:40:47]"Marine-2801": killed by 1855
+[00:40:47][BOT] Bonkers was killed by [BOT] Railo
+[00:40:50]"Marine-3555": killed by 3863
+[00:40:50][BOT] Relic25 was killed by [BOT] TychoCelchuuu
+[00:40:57]"Fade-3528": killed by 1871
+[00:40:57][BOT] ScardyBob was killed by [BOT] tommyd
+[00:41:04]"Onos-3805": killed by 1956
+[00:41:04][BOT] KungFuDiscoMon was killed by [BOT] Relic25
+[00:41:08]"Marine-1871": killed by 3863
+[00:41:08][BOT] tommyd was killed by [BOT] TychoCelchuuu
+[00:41:16]"Onos-3863": killed by 1956
+[00:41:16][BOT] TychoCelchuuu was killed by [BOT] Relic25
+[00:41:21]"Onos-1855": killed by 1956
+[00:41:21][BOT] Railo was killed by [BOT] Relic25
+[00:41:27]"Marine-3367": killed by 3283
+[00:41:27][BOT] Brackhar was killed by [BOT] KungFuDiscoMon
+[00:41:39]"Marine-3587": killed by 2322
+[00:41:39][BOT] Strayan was killed by [BOT] Obraxis
+[00:41:41]"Marine-216": killed by 2322
+[00:41:41][BOT] Ghoul was killed by [BOT] Obraxis
+[00:41:46]"Lerk-2322": killed by 2240
+[00:41:46][BOT] Obraxis was killed by [BOT] tommyd
+[00:41:50]"Fade-290": killed by 1956
+[00:41:50][BOT] ScardyBob was killed by [BOT] Relic25
+[00:42:04]"Marine-2240": killed by 1222
+[00:42:04][BOT] tommyd was killed by [BOT] TychoCelchuuu
+[00:42:10][BOT] TychoCelchuuu committed suicide
+[00:42:14]"Marine-3579": killed by 3283
+[00:42:14][BOT] Bonkers was killed by [BOT] KungFuDiscoMon
+[00:42:18]"Onos-3283": killed by 1956
+[00:42:18][BOT] KungFuDiscoMon was killed by [BOT] Relic25
+[00:42:21]"Lerk-1435": killed by 1001
+[00:42:21][BOT] Obraxis was killed by [BOT] Strayan
+[00:42:22]"Fade-2494": killed by 2423
+[00:42:22][BOT] ScardyBob was killed by [BOT] Brackhar
+[00:42:34]"Marine-964": killed by 1115
+[00:42:34][BOT] tommyd was killed by [BOT] Railo
+Client disconnected (192.168.86.1:52213) Quit
+Disconnected from Steam servers
+Connected to Steam servers
+VAC Enabled
+Disconnected from Steam servers
+Connected to Steam servers
+VAC Enabled
+[10:02:26]Call StartWorld with map '"ns2_summit"', mods '0x7db64350:{
+	"235ee3a6",
+	"706d242",
+	"4241b84e",
+	"c6fbbb0",
+	"2efee4ec",
+	"334982d2",
+}'
+Mod : Fetching Extensions...
+Mod : Remote Host returned: 4241b84e
+Mod : Mounting Extension 4241b84e
+[36203.502] Main : Error: 1 memory leaks in 'ServerWorldMisc' (98264 bytes)
+[36203.503] Main : Error: 1 memory leaks in 'ServerWorld' (98264 bytes)
+Downloading mods
+Finished downloading and installing mods
+[36205.858] Worker 05 : Mounting mod '[Shine] Wonitor' from /home/steam/.config/Natural Selection 2/Workshop/m235ee3a6_1502027081/
+[36205.860] Worker 05 : Mounting mod 'Shine Administration' from /home/steam/.config/Natural Selection 2/Workshop/m706d242_1532252994/
+[36205.861] Worker 05 : Mounting mod 'UWE Extension' from /home/steam/.config/Natural Selection 2/Workshop/m4241b84e_1530752891/
+[36205.861] Worker 05 : Mounting mod '[Shine] Epsilon' from /home/steam/.config/Natural Selection 2/Workshop/mc6fbbb0_1512413799/
+[36205.861] Worker 05 : Mounting mod 'Gorge Tunnel Control' from /home/steam/.config/Natural Selection 2/Workshop/m2efee4ec_1509443455/
+[36205.862] Worker 05 : Mounting mod 'NS2+' from /home/steam/.config/Natural Selection 2/Workshop/m334982d2_1531516414/
+UWE-EXTENSION ServerConfig.lua loaded.
+Loading config://ServerConfig.json
+Loading config://ReservedSlotsConfig.json
+UWE-EXTENSION DamageTypes.lua loaded.
+UWE-EXTENSION NS2Gamerules.lua loaded.
+UWE-EXTENSION AlienCommander.lua loaded.
+UWE-EXTENSION Weapons/Alien/Split.lua loaded.
+UWE-EXTENSION Weapons/Alien/LerkBite.lua loaded.
+UWE-EXTENSION Badges_Shared.lua loaded.
+[10:02:30]Loading Shine config...
+[10:02:30]Loading extensions...
+[10:02:30]- Extension 'ban' loaded.
+[10:02:30]- Extension 'basecommands' loaded.
+[10:02:30]- Extension 'mapvote' loaded.
+[10:02:30]- Extension 'motd' loaded.
+[10:02:30]- Extension 'unstuck' loaded.
+[10:02:30]- Extension 'usermanagement' loaded.
+[10:02:30]- Extension 'votesurrender' loaded.
+[10:02:30]- Error loading wonitor: You have not provided a path to the wonitor server. See readme.
+[10:02:30]Completed loading Shine extensions.
+Loading Shine users...
+[10:02:30]Shine started up successfully.
+[10:02:30]Loading config://ServerAdmin.json
+[10:02:30]Loading config://BannedPlayers.json
+[10:02:30]Loading config://MapCycle.json
+[10:02:30]Hashed 1 game_setup.xml files for consistency
+[10:02:30]Hashed 1225 *.lua files for consistency
+[10:02:30]Hashed 44 *.hlsl files for consistency
+[10:02:30]Hashed 37 *.shader files for consistency
+[10:02:30]Hashed 24 *.screenfx files for consistency
+[10:02:30]Hashed 196 *.surface_shader files for consistency
+[10:02:30]Hashed 1 *.fxh files for consistency
+[10:02:30]Hashed 5 *.render_setup files for consistency
+[10:02:30]Hashed 2 *.shader_template files for consistency
+[10:02:30]Hashed 29 *.level files for consistency
+[10:02:30]Hashed 6618 *.dds files for consistency
+[10:02:30]Hashed 986 *.cinematic files for consistency
+[10:02:30]Hashed 2416 *.material files for consistency
+[10:02:30]Hashed 4157 *.model files for consistency
+[10:02:30]Hashed 110 *.animation_graph files for consistency
+[10:02:30]Hashed 204 *.polygons files for consistency
+[10:02:30]Hashed 6 *.fev files for consistency
+[10:02:30]Hashed 12 *.hmp files for consistency
+[10:02:30]Skipped 683 ui/*.dds files for consistency
+[10:02:30]Skipped 172 *_view*.dds files for consistency
+[10:02:30]Skipped 76 *_view*.material files for consistency
+[10:02:30]Skipped 212 *_view*.model files for consistency
+[10:02:30]Skipped 29 models/marine/hands/* files for consistency
+[10:02:30]Skipped 1 sound/*_client.fev files for consistency
+[10:02:30]Skipped 1 shaders/DarkVision.hlsl files for consistency
+[10:02:30]Skipped 1 shaders/DarkVision.screenfx files for consistency
+[10:02:30]Skipped 1 shaders/DarkVision.shader files for consistency
+[10:02:30]Skipped 1 models/marine/male/flashlight.dds files for consistency
+[10:02:30]Hashed 4 lua/entry/*.entry files for consistency
+[10:02:30]Consistency checking took 0 seconds
+[10:02:30]INFO: LuaJIT setup: maxtrace=20000, maxmcode=35000
+[10:02:30]Loading config://NS2PlusServerConfig.json
+[10:02:30]------[NS2+ Server Settings]------
+[10:02:30]Blocked client options: drawviewmodel
+[10:02:30]Display team avg. skill: Disabled
+[10:02:30]Display team's probability of victory: Disabled
+[10:02:30]Display player skill pregame: Disabled
+[10:02:30]Display end game stats automatically on round end: Enabled
+[10:02:30]End game team stats scoreboard: Enabled
+[10:02:30]Save end round stats to file: Disabled
+[10:02:30]Mod updater: Enabled
+[10:02:30]	- Check every: 15 min.
+[10:02:30]	- Reminder interval: 5 min.
+[10:02:30]----------------------------------
+[36206.467] Worker 05 : Loading 'maps/ns2_summit.level'
+Loading pathing mesh for level maps/ns2_summit.level
+Finished loading 'maps/ns2_summit.level'
+Client connecting (71.202.68.150:49841)
+Client connected (71.202.68.150)
+[15:28:20]Client Authed. Steam ID: 139206301
+afk saying yay connected.
+[15:28:30]Client Authed. Steam ID: 0
+[15:28:30]Client Authed. Steam ID: 0
+[15:28:30]Client Authed. Steam ID: 0
+[15:28:30]Client Authed. Steam ID: 0
+[15:28:30]Client Authed. Steam ID: 0
+[15:28:30]Client Authed. Steam ID: 0
+[15:28:30]Client Authed. Steam ID: 0
+[15:28:30]Client Authed. Steam ID: 0
+[15:28:30]Client Authed. Steam ID: 0
+[15:28:30]Client Authed. Steam ID: 0
+[15:28:30]Client Authed. Steam ID: 0
+[15:28:50]"Fade-4070": killed by 2064
+[15:28:50][BOT] Narfwak was killed by [BOT] CoolCookieCook
+[15:28:51]Started Vote: VoteAddCommanderBots
+[15:28:56]"Marine-3882": killed by 1516
+[15:28:56][BOT] Explosif.be was killed by [BOT] Comprox
+[15:28:59]"Marine-2859": killed by 2128
+[15:28:59][BOT] Lachdanan was killed by [BOT] Obraxis
+[15:28:59]Vote Complete: VoteAddCommanderBots. Successful? Yes
+[15:28:59]Client Authed. Steam ID: 0
+[15:28:59]trying to log [BOT] Bonkers into Hive
+[15:29:33]"Skulk-1267": killed by 674
+[15:29:33][BOT] Narfwak was killed by [BOT] tommyd
+[15:29:34]"Skulk-3922": killed by 674
+[15:29:34][BOT] Zefram was killed by [BOT] tommyd
+[15:29:36]"Marine-2288": killed by 2523
+[15:29:36][BOT] TychoCelchuuu was killed by [BOT] Obraxis
+[15:29:50]"Skulk-2479": killed by 1176
+[15:29:50][BOT] Comprox was killed by [BOT] Explosif.be
+[15:29:53]"Skulk-2523": killed by 2066
+[15:29:53][BOT] Obraxis was killed by [BOT] CoolCookieCook
+[15:29:58]"Skulk-987": killed by 3681
+[15:29:58][BOT] remi.D was killed by [BOT] Lachdanan
+[15:30:02]"Skulk-110": killed by 1176
+[15:30:02][BOT] m4x0r was killed by [BOT] Explosif.be
+[15:30:13]"Skulk-1081": killed by 2066
+[15:30:13][BOT] Narfwak was killed by [BOT] CoolCookieCook
+[15:30:15]"Skulk-1336": killed by 674
+[15:30:15][BOT] Zefram was killed by [BOT] tommyd
+[15:30:34]"Skulk-242": killed by 1176
+[15:30:34][BOT] Obraxis was killed by [BOT] Explosif.be
+[15:30:47]"Skulk-3617": killed by 3681
+[15:30:47][BOT] m4x0r was killed by [BOT] Lachdanan
+[15:30:51]"Marine-1176": killed by 2567
+[15:30:51][BOT] Explosif.be was killed by [BOT] Narfwak
+[15:30:58]"Skulk-982": killed by 2066
+[15:30:58][BOT] remi.D was killed by [BOT] CoolCookieCook
+[15:31:00]"Skulk-2567": killed by 2066
+[15:31:00][BOT] Narfwak was killed by [BOT] CoolCookieCook
+[15:31:02]"Skulk-3309": killed by 2066
+[15:31:02][BOT] Zefram was killed by [BOT] CoolCookieCook
+[15:31:34]"Skulk-1855": killed by 4016
+[15:31:34][BOT] Comprox was killed by afk saying yay
+[15:31:36]"Skulk-86": killed by 3681
+[15:31:36][BOT] Zefram was killed by [BOT] Lachdanan
+[15:31:47]"Marine-1779": killed by 3542
+[15:31:47]afk saying yay was killed by [BOT] Obraxis
+[15:31:56]"Skulk-3542": killed by 674
+[15:31:56][BOT] Obraxis was killed by [BOT] tommyd
+[15:32:00]"Skulk-3594": killed by 674
+[15:32:00][BOT] remi.D was killed by [BOT] tommyd
+[15:32:00]"Marine-3365": killed by 3083
+[15:32:00]afk saying yay was killed by [BOT] m4x0r
+[15:32:04]"Skulk-3252": killed by 2568
+[15:32:04][BOT] Narfwak was killed by [BOT] TychoCelchuuu
+[15:32:04]"Skulk-3083": killed by 2568
+[15:32:04][BOT] m4x0r was killed by [BOT] TychoCelchuuu
+[15:32:19]"Marine-2568": killed by 3908
+[15:32:19][BOT] TychoCelchuuu was killed by [BOT] Comprox
+[15:32:24]"Marine-3681": killed by 3908
+[15:32:24][BOT] Lachdanan was killed by [BOT] Comprox
+[15:32:25]"Skulk-3908": killed by 2066
+[15:32:25][BOT] Comprox was killed by [BOT] CoolCookieCook
+[15:32:34]"Skulk-2444": killed by 2066
+[15:32:34][BOT] Zefram was killed by [BOT] CoolCookieCook
+[15:32:43]"Skulk-3945": killed by 2933
+[15:32:43][BOT] Obraxis was killed by [BOT] Explosif.be
+[15:32:54]"Skulk-1745": killed by 2066
+[15:32:54][BOT] Narfwak was killed by [BOT] CoolCookieCook
+[15:32:59]"Skulk-1965": killed by 674
+[15:32:59][BOT] remi.D was killed by [BOT] tommyd
+[15:33:10]"Marine-674": killed by 1492
+[15:33:10][BOT] tommyd was killed by [BOT] m4x0r
+[15:33:12]"Lerk-1492": killed by 2066
+[15:33:12][BOT] m4x0r was killed by [BOT] CoolCookieCook
+[15:33:27]"Skulk-3866": killed by 3082
+[15:33:27][BOT] Zefram was killed by [BOT] tommyd
+[15:33:32]"Skulk-1251": killed by 2066
+[15:33:32][BOT] remi.D was killed by [BOT] CoolCookieCook
+[15:33:38]"Skulk-3924": killed by 2066
+[15:33:38][BOT] Obraxis was killed by [BOT] CoolCookieCook
+[15:33:42]"Skulk-1641": killed by 2804
+[15:33:42][BOT] Comprox was killed by [BOT] Lachdanan
+[15:34:06]"Skulk-841": killed by 2365
+[15:34:06][BOT] Narfwak was killed by [BOT] TychoCelchuuu
+[15:34:15]"Skulk-382": killed by 2365
+[15:34:15][BOT] Zefram was killed by [BOT] TychoCelchuuu
+[15:34:15]"Skulk-2549": killed by 2933
+[15:34:15][BOT] m4x0r was killed by [BOT] Explosif.be
+[15:34:36]"Marine-3082": killed by 3487
+[15:34:36][BOT] tommyd was killed by [BOT] Obraxis
+[15:34:37]"Marine-2933": killed by 3487
+[15:34:37][BOT] Explosif.be was killed by [BOT] Obraxis
+[15:34:52]"Skulk-3487": killed by 2365
+[15:34:52][BOT] Obraxis was killed by [BOT] TychoCelchuuu
+[15:34:54]"Marine-2066": killed by 950
+[15:34:54][BOT] CoolCookieCook was killed by [BOT] remi.D
+[15:35:01]"Skulk-3858": killed by 2365
+[15:35:01][BOT] Comprox was killed by [BOT] TychoCelchuuu
+[15:35:05]"Skulk-950": killed by 2365
+[15:35:05][BOT] remi.D was killed by [BOT] TychoCelchuuu
+[15:35:37]"Skulk-2702": killed by 2634
+[15:35:37][BOT] remi.D was killed by [BOT] tommyd
+[15:35:49]"Fade-3347": killed by 890
+[15:35:49][BOT] Narfwak was killed by [BOT] CoolCookieCook
+[15:36:11]"Skulk-3001": killed by 2634
+[15:36:11][BOT] m4x0r was killed by [BOT] tommyd
+[15:36:36]"Fade-2700": killed by 2636
+[15:36:36][BOT] Zefram was killed by afk saying yay
+[15:36:40]"Marine-2365": killed by 3283
+[15:36:40][BOT] TychoCelchuuu was killed by [BOT] remi.D
+[15:36:40]"Skulk-3283": killed by 890
+[15:36:40][BOT] remi.D was killed by [BOT] CoolCookieCook
+[15:36:46]"Skulk-2007": killed by 2636
+[15:36:46][BOT] Narfwak was killed by afk saying yay
+[15:36:49]"Skulk-3014": killed by 1312
+[15:36:49][BOT] Comprox was killed by [BOT] Explosif.be
+[15:36:56]"Fade-3828": killed by 2804
+[15:36:56][BOT] Obraxis was killed by [BOT] Lachdanan
+[15:37:20]"Skulk-2284": killed by 3520
+[15:37:20][BOT] Zefram was killed by [BOT] TychoCelchuuu
+[15:37:32]"Skulk-1230": killed by 1387
+[15:37:32][BOT] Comprox was killed by afk saying yay
+[15:37:40]"Lerk-1511": killed by 2634
+[15:37:40][BOT] m4x0r was killed by [BOT] tommyd
+[15:37:46]"Skulk-570": killed by 1387
+[15:37:46][BOT] remi.D was killed by afk saying yay
+[15:38:06]"Skulk-1753": killed by 1387
+[15:38:06][BOT] Obraxis was killed by afk saying yay
+[15:38:13]"Skulk-1708": killed by 2804
+[15:38:13][BOT] Comprox was killed by [BOT] Lachdanan
+[15:38:13]"Skulk-2063": killed by 1387
+[15:38:13][BOT] Zefram was killed by afk saying yay
+[15:38:23]"Marine-2804": killed by 4022
+[15:38:23][BOT] Lachdanan was killed by [BOT] m4x0r
+[15:38:25]"Skulk-4022": killed by 3520
+[15:38:25][BOT] m4x0r was killed by [BOT] TychoCelchuuu
+[15:39:06]"Skulk-734": killed by 1387
+[15:39:06][BOT] m4x0r was killed by afk saying yay
+[15:39:15]"Skulk-3485": killed by 1387
+[15:39:15][BOT] Zefram was killed by afk saying yay
+[15:39:30]"Skulk-2387": killed by 890
+[15:39:30][BOT] Zefram was killed by [BOT] CoolCookieCook
+[15:39:45]"Marine-890": killed by 1105
+[15:39:45][BOT] CoolCookieCook was killed by [BOT] Zefram
+[15:39:46]"Skulk-3187": killed by 1312
+[15:39:46][BOT] Obraxis was killed by [BOT] Explosif.be
+[15:39:49]"Marine-3748": killed by 1105
+[15:39:49][BOT] Lachdanan was killed by [BOT] Zefram
+[15:39:53]"Marine-1312": killed by 1105
+[15:39:53][BOT] Explosif.be was killed by [BOT] Zefram
+[15:39:58]"Marine-870": killed by 1793
+[15:39:58][BOT] CoolCookieCook was killed by [BOT] remi.D
+[15:40:02]"Marine-3614": killed by 2397
+[15:40:02][BOT] Lachdanan was killed by [BOT] Comprox
+[15:40:07]"Skulk-3878": killed by 2634
+[15:40:07][BOT] Narfwak was killed by [BOT] tommyd
+[15:40:07]"Marine-2906": killed by 2397
+[15:40:07][BOT] Explosif.be was killed by [BOT] Comprox
+[15:40:12]"Marine-2634": killed by 1793
+[15:40:12][BOT] tommyd was killed by [BOT] remi.D
+[15:40:14]"Marine-3520": killed by 1793
+[15:40:14][BOT] TychoCelchuuu was killed by [BOT] remi.D
+[15:40:17]"Skulk-1105": killed by 2055
+[15:40:17][BOT] Zefram was killed by [BOT] CoolCookieCook
+[15:40:32]"Marine-1500": killed by 2235
+[15:40:32][BOT] tommyd was killed by [BOT] m4x0r
+[15:40:33]"Embryo-2127": killed by 2055
+[15:40:33][BOT] Obraxis was killed by [BOT] CoolCookieCook
+[15:40:36]"Marine-2055": killed by 2235
+[15:40:36][BOT] CoolCookieCook was killed by [BOT] m4x0r
+[15:40:37]"Embryo-2841": killed by 2510
+[15:40:37][BOT] Narfwak was killed by [BOT] Lachdanan
+[15:40:44]"Marine-170": killed by 2235
+[15:40:44][BOT] Explosif.be was killed by [BOT] m4x0r
+[15:40:46]"Marine-2510": killed by 2235
+[15:40:46][BOT] Lachdanan was killed by [BOT] m4x0r
+[15:40:49]"Marine-374": killed by 2235
+[15:40:49][BOT] TychoCelchuuu was killed by [BOT] m4x0r
+[15:40:55]"Marine-1640": killed by 2235
+[15:40:55][BOT] tommyd was killed by [BOT] m4x0r
+[15:41:07]INFO: Adjusting LuaJIT settings: maxtrace 21000(20000), maxmcode 35000(35000)
+[15:41:12]"Marine-4004": killed by 1066
+[15:41:12][BOT] CoolCookieCook was killed by [BOT] Zefram
+[15:41:25]"Fade-1066": killed by 2822
+[15:41:25][BOT] Zefram was killed by [BOT] tommyd
+[15:41:25]"Lerk-2235": killed by 2822
+[15:41:25][BOT] m4x0r was killed by [BOT] tommyd
+[15:41:34]"Onos-289": killed by 903
+[15:41:34][BOT] remi.D was killed by [BOT] TychoCelchuuu
+[15:41:44]"Skulk-3629": killed by 2822
+[15:41:44][BOT] m4x0r was killed by [BOT] tommyd
+[15:41:50]"Skulk-244": killed by 3873
+[15:41:50][BOT] remi.D was killed by [BOT] CoolCookieCook
+[15:42:10]"Skulk-2316": killed by 3850
+[15:42:10][BOT] remi.D was killed by [BOT] Lachdanan
+Network variable 'posx' of class 'Damage' has value -nan which is outside the range -1638.000000 to 1638.000000
+Network variable 'posy' of class 'Damage' has value -nan which is outside the range -1638.000000 to 1638.000000
+Network variable 'posz' of class 'Damage' has value -nan which is outside the range -1638.000000 to 1638.000000
+[15:42:28]"Marine-3850": killed by 3552
+[15:42:28][BOT] Lachdanan was killed by [BOT] remi.D
+[15:42:31]"Marine-2822": killed by 986
+[15:42:31][BOT] tommyd was killed by [BOT] Narfwak
+[15:42:33]"Skulk-3138": killed by 1642
+[15:42:33][BOT] Zefram was killed by afk saying yay
+[15:42:34]"Skulk-986": killed by 903
+[15:42:34][BOT] Narfwak was killed by [BOT] TychoCelchuuu
+[15:42:36]"Skulk-3699": killed by 1642
+[15:42:36][BOT] Obraxis was killed by afk saying yay
+Network variable 'posx' of class 'Damage' has value -nan which is outside the range -1638.000000 to 1638.000000
+Network variable 'posy' of class 'Damage' has value -nan which is outside the range -1638.000000 to 1638.000000
+Network variable 'posz' of class 'Damage' has value -nan which is outside the range -1638.000000 to 1638.000000
+[15:42:37]"Skulk-3552": killed by 3873
+[15:42:37][BOT] remi.D was killed by [BOT] CoolCookieCook
+[15:42:40]"Skulk-2666": killed by 2859
+[15:42:40][BOT] m4x0r was killed by [BOT] Explosif.be
+[15:42:45]"Marine-3873": killed by 80
+[15:42:45][BOT] CoolCookieCook was killed by [BOT] Comprox
+[15:42:50]"Marine-2859": killed by 80
+[15:42:50][BOT] Explosif.be was killed by [BOT] Comprox
+[15:42:53]"Marine-903": killed by 80
+[15:42:53][BOT] TychoCelchuuu was killed by [BOT] Comprox
+[15:42:56]"Marine-1642": killed by 80
+[15:42:56]afk saying yay was killed by [BOT] Comprox
+[56641.671] Main : Error: Failed to add an obstacle at -38.74, -98.83, 52.96!
+[56641.671] Main : Error: Failed to add an obstacle at -18.59, -98.25, 5.08!
+[56641.671] Main : Error: Failed to add an obstacle at 73.99, -100.20, 34.21!
+[56641.671] Main : Error: Failed to add an obstacle at 20.55, -97.31, 63.55!
+[56641.671] Main : Error: Failed to add an obstacle at 81.64, -96.90, 129.76!
+[56641.671] Main : Error: Failed to add an obstacle at 27.25, -97.26, 7.22!
+[56641.671] Main : Error: Failed to add an obstacle at -25.60, -95.66, 101.35!
+[56641.671] Main : Error: Failed to add an obstacle at 5.05, -92.33, 144.96!
+[56641.671] Main : Error: Failed to add an obstacle at 103.73, -94.08, 62.23!
+[56641.700] Main : Error: Failed to add an obstacle at -38.74, -98.83, 52.96!
+[56641.701] Main : Error: Failed to add an obstacle at -54.61, -96.82, 52.93!
+[56641.702] Main : Error: Failed to add an obstacle at -51.97, -97.36, 57.91!
+[56641.703] Main : Error: Failed to add an obstacle at 103.73, -94.08, 62.23!
+[56641.719] Main : Error: Failed to add an obstacle at 96.98, -92.93, 77.77!
+[15:43:29]afk saying yay[139206301] ran command sh_vote with arguments: ns2_eclipse
+[15:44:12]Call StartWorld with map '"ns2_eclipse"', mods '0x7133fa68:{
+	"235ee3a6",
+	"706d242",
+	"4241b84e",
+	"c6fbbb0",
+	"2efee4ec",
+	"334982d2",
+}'
+Mod : Fetching Extensions...
+Mod : Remote Host returned: 4241b84e
+Mod : Mounting Extension 4241b84e
+Downloading mods
+Finished downloading and installing mods
+[56711.837] Worker 04 : Mounting mod '[Shine] Wonitor' from /home/steam/.config/Natural Selection 2/Workshop/m235ee3a6_1502027081/
+[56711.838] Worker 04 : Mounting mod 'Shine Administration' from /home/steam/.config/Natural Selection 2/Workshop/m706d242_1532252994/
+[56711.838] Worker 04 : Mounting mod 'UWE Extension' from /home/steam/.config/Natural Selection 2/Workshop/m4241b84e_1530752891/
+[56711.839] Worker 04 : Mounting mod '[Shine] Epsilon' from /home/steam/.config/Natural Selection 2/Workshop/mc6fbbb0_1512413799/
+[56711.839] Worker 04 : Mounting mod 'Gorge Tunnel Control' from /home/steam/.config/Natural Selection 2/Workshop/m2efee4ec_1509443455/
+[56711.839] Worker 04 : Mounting mod 'NS2+' from /home/steam/.config/Natural Selection 2/Workshop/m334982d2_1531516414/
+UWE-EXTENSION ServerConfig.lua loaded.
+Loading config://ServerConfig.json
+Loading config://ReservedSlotsConfig.json
+UWE-EXTENSION DamageTypes.lua loaded.
+UWE-EXTENSION NS2Gamerules.lua loaded.
+UWE-EXTENSION AlienCommander.lua loaded.
+UWE-EXTENSION Weapons/Alien/Split.lua loaded.
+UWE-EXTENSION Weapons/Alien/LerkBite.lua loaded.
+UWE-EXTENSION Badges_Shared.lua loaded.
+[15:44:16]Loading Shine config...
+[15:44:16]Loading extensions...
+[15:44:16]- Extension 'ban' loaded.
+[15:44:16]- Extension 'basecommands' loaded.
+[15:44:16]- Extension 'mapvote' loaded.
+[15:44:16]- Extension 'motd' loaded.
+[15:44:16]- Extension 'unstuck' loaded.
+[15:44:16]- Extension 'usermanagement' loaded.
+[15:44:16]- Extension 'votesurrender' loaded.
+[15:44:16]- Error loading wonitor: You have not provided a path to the wonitor server. See readme.
+[15:44:16]Completed loading Shine extensions.
+Loading Shine users...
+[15:44:16]Shine started up successfully.
+[15:44:16]Loading config://ServerAdmin.json
+[15:44:16]Loading config://BannedPlayers.json
+[15:44:16]Loading config://MapCycle.json
+[15:44:16]Hashed 1 game_setup.xml files for consistency
+[15:44:16]Hashed 1225 *.lua files for consistency
+[15:44:16]Hashed 44 *.hlsl files for consistency
+[15:44:16]Hashed 37 *.shader files for consistency
+[15:44:16]Hashed 24 *.screenfx files for consistency
+[15:44:16]Hashed 196 *.surface_shader files for consistency
+[15:44:16]Hashed 1 *.fxh files for consistency
+[15:44:16]Hashed 5 *.render_setup files for consistency
+[15:44:16]Hashed 2 *.shader_template files for consistency
+[15:44:16]Hashed 29 *.level files for consistency
+[15:44:16]Hashed 6618 *.dds files for consistency
+[15:44:16]Hashed 986 *.cinematic files for consistency
+[15:44:16]Hashed 2416 *.material files for consistency
+[15:44:16]Hashed 4157 *.model files for consistency
+[15:44:16]Hashed 110 *.animation_graph files for consistency
+[15:44:16]Hashed 204 *.polygons files for consistency
+[15:44:16]Hashed 6 *.fev files for consistency
+[15:44:16]Hashed 12 *.hmp files for consistency
+[15:44:16]Skipped 683 ui/*.dds files for consistency
+[15:44:16]Skipped 172 *_view*.dds files for consistency
+[15:44:16]Skipped 76 *_view*.material files for consistency
+[15:44:16]Skipped 212 *_view*.model files for consistency
+[15:44:16]Skipped 29 models/marine/hands/* files for consistency
+[15:44:16]Skipped 1 sound/*_client.fev files for consistency
+[15:44:16]Skipped 1 shaders/DarkVision.hlsl files for consistency
+[15:44:16]Skipped 1 shaders/DarkVision.screenfx files for consistency
+[15:44:16]Skipped 1 shaders/DarkVision.shader files for consistency
+[15:44:16]Skipped 1 models/marine/male/flashlight.dds files for consistency
+[15:44:16]Hashed 4 lua/entry/*.entry files for consistency
+[15:44:16]Consistency checking took 0 seconds
+[15:44:16]INFO: LuaJIT setup: maxtrace=21000, maxmcode=35000
+[15:44:16]Loading config://NS2PlusServerConfig.json
+[15:44:16]------[NS2+ Server Settings]------
+[15:44:16]Blocked client options: drawviewmodel
+[15:44:16]Display team avg. skill: Disabled
+[15:44:16]Display team's probability of victory: Disabled
+[15:44:16]Display player skill pregame: Disabled
+[15:44:16]Display end game stats automatically on round end: Enabled
+[15:44:16]End game team stats scoreboard: Enabled
+[15:44:16]Save end round stats to file: Disabled
+[15:44:16]Mod updater: Enabled
+[15:44:16]	- Check every: 15 min.
+[15:44:16]	- Reminder interval: 5 min.
+[15:44:16]----------------------------------
+[56712.377] Worker 04 : Loading 'maps/ns2_eclipse.level'
+Loading pathing mesh for level maps/ns2_eclipse.level
+Finished loading 'maps/ns2_eclipse.level'
+Client connected (71.202.68.150)
+[15:44:53]Client Authed. Steam ID: 139206301
+afk saying yay connected.
+[15:45:08]Client Authed. Steam ID: 0
+[15:45:08]Client Authed. Steam ID: 0
+[15:45:08]Client Authed. Steam ID: 0
+[15:45:08]Client Authed. Steam ID: 0
+[15:45:08]Client Authed. Steam ID: 0
+[15:45:08]Client Authed. Steam ID: 0
+[15:45:08]Client Authed. Steam ID: 0
+[15:45:08]Client Authed. Steam ID: 0
+[15:45:08]Client Authed. Steam ID: 0
+[15:45:08]Client Authed. Steam ID: 0
+[15:45:08]Client Authed. Steam ID: 0
+[15:45:21]Started Vote: VoteAddCommanderBots
+[15:45:24]"Lerk-2128": killed by 1890
+[15:45:24][BOT] Loki was killed by [BOT] Incredulous Dy
+[15:45:25]"Lerk-1174": killed by 304
+[15:45:25][BOT] MonsieurEvil was killed by [BOT] Chops
+[15:45:27]Vote Complete: VoteAddCommanderBots. Successful? Yes
+[15:45:27]Client Authed. Steam ID: 0
+[15:45:27]trying to log [BOT] WDI into CommandStation
+[15:46:16]"Skulk-3890": killed by 3600
+[15:46:16][BOT] Crispix was killed by [BOT] Mazza
+[15:46:32]"Skulk-39": killed by 1751
+[15:46:32][BOT] Loki was killed by [BOT] Incredulous Dy
+[15:46:44]"Skulk-2299": killed by 3551
+[15:46:44][BOT] MGS-3 was killed by [BOT] Chops
+[15:46:51]"Skulk-931": killed by 3600
+[15:46:51][BOT] moultano was killed by [BOT] Mazza
+[15:46:56]"Skulk-1765": killed by 251
+[15:46:56][BOT] Loki was killed by [BOT] Squeal Like a 
+[15:47:08]"Skulk-723": killed by 251
+[15:47:08][BOT] MGS-3 was killed by [BOT] Squeal Like a 
+[15:47:19]"Skulk-1820": killed by 251
+[15:47:19][BOT] moultano was killed by [BOT] Squeal Like a 
+[15:47:25]"Skulk-2948": killed by 251
+[15:47:25][BOT] Loki was killed by [BOT] Squeal Like a 
+[15:47:31]"Skulk-190": killed by 1751
+[15:47:31][BOT] Crispix was killed by [BOT] Incredulous Dy
+[15:47:32]"Skulk-1486": killed by 739
+[15:47:32][BOT] MonsieurEvil was killed by [BOT] ScardyBob
+[15:47:52]"Skulk-873": killed by 251
+[15:47:52][BOT] moultano was killed by [BOT] Squeal Like a 
+[15:48:02]"Skulk-2652": killed by 3551
+[15:48:02][BOT] Loki was killed by [BOT] Chops
+[15:48:04]"Skulk-1439": killed by 739
+[15:48:04][BOT] MGS-3 was killed by [BOT] ScardyBob
+Network variable 'posx' of class 'Damage' has value -nan which is outside the range -1638.000000 to 1638.000000
+Network variable 'posy' of class 'Damage' has value -nan which is outside the range -1638.000000 to 1638.000000
+Network variable 'posz' of class 'Damage' has value -nan which is outside the range -1638.000000 to 1638.000000
+[15:48:13]"Skulk-3169": killed by 739
+[15:48:13][BOT] Crispix was killed by [BOT] ScardyBob
+[15:48:47]"Marine-739": killed by 388
+[15:48:47][BOT] ScardyBob was killed by [BOT] Loki
+[15:48:48]"Skulk-3278": killed by 1697
+[15:48:48][BOT] moultano was killed by [BOT] zaggynl
+[15:48:49]"Skulk-3738": killed by 1697
+[15:48:49][BOT] MonsieurEvil was killed by [BOT] zaggynl
+[15:48:49]"Skulk-388": killed by 1697
+[15:48:49][BOT] Loki was killed by [BOT] zaggynl
+[15:49:09]"Skulk-2990": killed by 1697
+[15:49:09][BOT] Crispix was killed by [BOT] zaggynl
+[15:49:24]"Skulk-2491": killed by 3551
+[15:49:24][BOT] moultano was killed by [BOT] Chops
+[15:49:24]"Marine-1697": killed by 3903
+[15:49:24][BOT] zaggynl was killed by [BOT] MGS-3
+[15:49:26]"Lerk-3903": killed by 2739
+[15:49:26][BOT] MGS-3 was killed by [BOT] ScardyBob
+[15:49:31]"Skulk-3088": killed by 251
+[15:49:31][BOT] MonsieurEvil was killed by [BOT] Squeal Like a 
+[15:49:52]"Marine-2739": killed by 1649
+[15:49:52][BOT] ScardyBob was killed by [BOT] Crispix
+[15:49:55]"Marine-1751": killed by 3028
+[15:49:55][BOT] Incredulous Dy was killed by [BOT] moultano
+[15:50:02]"Marine-3106": killed by 3028
+[15:50:02][BOT] zaggynl was killed by [BOT] moultano
+[15:50:15]"Skulk-3028": killed by 2936
+[15:50:15][BOT] moultano was killed by [BOT] ScardyBob
+[15:50:18]"Marine-2936": killed by 2809
+[15:50:18][BOT] ScardyBob was killed by [BOT] MGS-3
+[15:50:18]"Skulk-2809": killed by 251
+[15:50:18][BOT] MGS-3 was killed by [BOT] Squeal Like a 
+[15:50:21]"Skulk-1649": killed by 3600
+[15:50:21][BOT] Crispix was killed by [BOT] Mazza
+[15:50:34]"Skulk-1178": killed by 3600
+[15:50:34][BOT] moultano was killed by [BOT] Mazza
+[15:50:37]"Lerk-1681": killed by 251
+[15:50:37][BOT] MonsieurEvil was killed by [BOT] Squeal Like a 
+[15:50:41]"Marine-3600": killed by 146
+[15:50:41][BOT] Mazza was killed by [BOT] MGS-3
+[15:50:42]"Skulk-146": killed by 2669
+[15:50:42][BOT] MGS-3 was killed by [BOT] Incredulous Dy
+[15:50:45]"Lerk-2926": killed by 3551
+[15:50:45][BOT] Loki was killed by [BOT] Chops
+[15:50:52]"Skulk-627": killed by 1474
+[15:50:52][BOT] Crispix was killed by [BOT] zaggynl
+[15:51:02]"Skulk-2202": killed by 1474
+[15:51:02]afk saying yay was killed by [BOT] zaggynl
+[15:51:14]"Skulk-1043": killed by 2669
+[15:51:14][BOT] MonsieurEvil was killed by [BOT] Incredulous Dy
+[15:51:25]"Skulk-3132": killed by 465
+[15:51:25][BOT] moultano was killed by [BOT] Mazza
+[15:51:40]"Skulk-1735": killed by 375
+[15:51:40][BOT] Loki was killed by [BOT] ScardyBob
+[15:51:56]"Skulk-2591": killed by 465
+[15:51:56][BOT] Crispix was killed by [BOT] Mazza
+[15:52:09]"Skulk-3905": killed by 2669
+[15:52:09][BOT] MGS-3 was killed by [BOT] Incredulous Dy
+[15:52:43]"Skulk-429": killed by 2669
+[15:52:43][BOT] MonsieurEvil was killed by [BOT] Incredulous Dy
+[15:52:46]"Skulk-3238": killed by 375
+[15:52:46][BOT] moultano was killed by [BOT] ScardyBob
+[15:52:52]"Skulk-3710": killed by 3551
+[15:52:52][BOT] MGS-3 was killed by [BOT] Chops
+[15:52:59]"Skulk-2864": killed by 465
+[15:52:59][BOT] Loki was killed by [BOT] Mazza
+[15:53:07]"Fade-428": killed by 375
+[15:53:07][BOT] Crispix was killed by [BOT] ScardyBob
+[15:53:08]"Marine-1474": killed by 1916
+[15:53:08][BOT] zaggynl was killed by [BOT] MonsieurEvil
+[15:53:08]"Skulk-1916": killed by 2669
+[15:53:08][BOT] MonsieurEvil was killed by [BOT] Incredulous Dy
+[15:53:14]"Skulk-1614": killed by 2669
+[15:53:14][BOT] Loki was killed by [BOT] Incredulous Dy
+[15:53:18]"Skulk-367": killed by 251
+[15:53:18][BOT] moultano was killed by [BOT] Squeal Like a 
+[15:53:32]"Lerk-156": killed by 465
+[15:53:32][BOT] MGS-3 was killed by [BOT] Mazza
+[15:53:38]"Skulk-1542": killed by 3102
+[15:53:38][BOT] Crispix was killed by [BOT] zaggynl
+[15:53:39]"Skulk-3823": killed by 465
+[15:53:39][BOT] MonsieurEvil was killed by [BOT] Mazza
+[15:53:46]"Skulk-3367": killed by 2669
+[15:53:46][BOT] moultano was killed by [BOT] Incredulous Dy
+[15:53:48]"Skulk-1446": killed by 465
+[15:53:48][BOT] MGS-3 was killed by [BOT] Mazza
+[15:53:53]"Skulk-1514": killed by 2669
+[15:53:53][BOT] MonsieurEvil was killed by [BOT] Incredulous Dy
+[15:53:57]"Skulk-3494": killed by 3102
+[15:53:57][BOT] Crispix was killed by [BOT] zaggynl
+[15:54:03]"Skulk-3742": killed by 465
+[15:54:03][BOT] MGS-3 was killed by [BOT] Mazza
+[15:54:04]"Marine-3102": killed by 902
+[15:54:04][BOT] zaggynl was killed by [BOT] Loki
+[15:54:05]"Skulk-295": killed by 465
+[15:54:05][BOT] moultano was killed by [BOT] Mazza
+[15:54:08]"Marine-465": killed by 902
+[15:54:08][BOT] Mazza was killed by [BOT] Loki
+[15:54:31]"Marine-251": killed by 2296
+[15:54:31][BOT] Squeal Like a  was killed by afk saying yay
+[15:54:38]"Marine-3551": killed by 3058
+[15:54:38][BOT] Chops was killed by [BOT] MonsieurEvil
+[15:54:40]"Lerk-3058": killed by 2294
+[15:54:40][BOT] MonsieurEvil was killed by [BOT] zaggynl
+[15:54:44]"Marine-2294": killed by 3099
+[15:54:44][BOT] zaggynl was killed by [BOT] Loki
+[15:54:48]"Lerk-3099": killed by 2819
+[15:54:48][BOT] Loki was killed by [BOT] Mazza
+[15:54:51]"Skulk-3468": killed by 2819
+[15:54:51][BOT] moultano was killed by [BOT] Mazza
+[15:55:00]"Marine-2819": killed by 2114
+[15:55:00][BOT] Mazza was killed by [BOT] MonsieurEvil
+[15:55:01]"Marine-375": killed by 2114
+[15:55:01][BOT] ScardyBob was killed by [BOT] MonsieurEvil
+[15:55:04]"Skulk-2114": killed by 564
+[15:55:04][BOT] MonsieurEvil was killed by [BOT] Squeal Like a 
+[15:55:09]"Marine-2669": killed by 1606
+[15:55:09][BOT] Incredulous Dy was killed by [BOT] Crispix
+[15:55:19]"Skulk-1606": killed by 564
+[15:55:19][BOT] Crispix was killed by [BOT] Squeal Like a 
+[15:55:23]"Skulk-36": killed by 564
+[15:55:23][BOT] moultano was killed by [BOT] Squeal Like a 
+[15:55:40]"Skulk-71": killed by 564
+[15:55:40][BOT] Crispix was killed by [BOT] Squeal Like a 
+[15:55:44]"Skulk-1836": killed by 2963
+[15:55:44][BOT] Loki was killed by [BOT] zaggynl
+[15:55:46]"Skulk-2576": killed by 2963
+[15:55:46][BOT] MGS-3 was killed by [BOT] zaggynl
+[15:56:01]"Skulk-2040": killed by 2963
+[15:56:01][BOT] Crispix was killed by [BOT] zaggynl
+[15:56:03]"Skulk-3566": killed by 3005
+[15:56:03][BOT] Loki was killed by [BOT] ScardyBob
+[15:56:16]"Marine-2963": killed by 2723
+[15:56:16][BOT] zaggynl was killed by [BOT] MGS-3
+[15:56:19]"Marine-3585": killed by 2763
+[15:56:19][BOT] Mazza was killed by afk saying yay
+[15:56:20]"Skulk-1484": killed by 193
+[15:56:20][BOT] MonsieurEvil was killed by [BOT] Incredulous Dy
+[15:56:26]"Skulk-2723": killed by 193
+[15:56:26][BOT] MGS-3 was killed by [BOT] Incredulous Dy
+[15:56:27]"Skulk-3996": killed by 3880
+[15:56:27][BOT] moultano was killed by [BOT] Chops
+[15:56:28]"Skulk-828": killed by 3005
+[15:56:28][BOT] Crispix was killed by [BOT] ScardyBob
+[15:56:39]"Skulk-2532": killed by 193
+[15:56:39][BOT] Loki was killed by [BOT] Incredulous Dy
+[15:56:44]"Marine-3005": killed by 380
+[15:56:44][BOT] ScardyBob was killed by [BOT] moultano
+[15:56:59]"Skulk-2677": killed by 3880
+[15:56:59][BOT] Crispix was killed by [BOT] Chops
+[15:57:02]"Skulk-261": killed by 1268
+[15:57:02][BOT] MonsieurEvil was killed by [BOT] ScardyBob
+[15:57:12]"Embryo-2347": killed by 3880
+[15:57:12][BOT] moultano was killed by [BOT] Chops
+[15:57:19]"Skulk-1960": killed by 193
+[15:57:19][BOT] Crispix was killed by [BOT] Incredulous Dy
+[15:57:32]"Skulk-1457": killed by 1268
+[15:57:32][BOT] MonsieurEvil was killed by [BOT] ScardyBob
+[15:57:38]"Skulk-3140": killed by 1268
+[15:57:38][BOT] moultano was killed by [BOT] ScardyBob
+[15:57:50]"Skulk-496": killed by 3880
+[15:57:50][BOT] MonsieurEvil was killed by [BOT] Chops
+[15:57:53]"Lerk-466": killed by 3017
+[15:57:53][BOT] MGS-3 was killed by [BOT] zaggynl
+[15:57:53]"Skulk-2831": killed by 3880
+[15:57:53][BOT] moultano was killed by [BOT] Chops
+[15:58:18]"Marine-1268": killed by 10
+[15:58:18][BOT] ScardyBob was killed by [BOT] Crispix
+[15:58:19]"Marine-193": killed by 2242
+[15:58:19][BOT] Incredulous Dy was killed by [BOT] Loki
+[15:58:20]"Marine-3017": killed by 2242
+[15:58:20][BOT] zaggynl was killed by [BOT] Loki
+[15:58:30]"Marine-3406": killed by 10
+[15:58:30][BOT] ScardyBob was killed by [BOT] Crispix
+[15:58:37]"Marine-564": killed by 2242
+[15:58:37][BOT] Squeal Like a  was killed by [BOT] Loki
+[15:58:41]"Marine-3407": killed by 2242
+[15:58:41][BOT] Incredulous Dy was killed by [BOT] Loki
+[15:58:48]"Lerk-2242": killed by 2665
+[15:58:48][BOT] Loki was killed by [BOT] zaggynl
+[15:58:52]"Marine-3221": killed by 1218
+[15:58:52][BOT] Mazza was killed by [BOT] MGS-3
+[15:58:54]"Marine-3880": killed by 2658
+[15:58:54][BOT] Chops was killed by [BOT] MonsieurEvil
+[15:58:54]"Marine-2665": killed by 2838
+[15:58:54][BOT] zaggynl was killed by [BOT] moultano
+[15:59:03]"Marine-1057": killed by 2838
+[15:59:03][BOT] ScardyBob was killed by [BOT] moultano
+[15:59:08]"Skulk-1218": killed by 1087
+[15:59:08][BOT] MGS-3 was killed by [BOT] Squeal Like a 
+[15:59:08]"Marine-1087": killed by 2658
+[15:59:08][BOT] Squeal Like a  was killed by [BOT] MonsieurEvil
+[15:59:11]trying to log [BOT] WDI into CommandStation
+[57616.485] Main : Error: Failed to add an obstacle at -25.10, -59.28, 104.09!
+[57616.486] Main : Error: Failed to add an obstacle at -16.41, -59.31, 100.91!
+[57616.487] Main : Error: Failed to add an obstacle at -121.31, -70.54, 140.62!
+[57616.493] Main : Error: Failed to add an obstacle at -143.87, -68.02, 140.61!
+Client disconnected (71.202.68.150:49841) Quit
+Client connecting (71.202.68.150:62938)
+Client connected (71.202.68.150)
+[17:20:00]Client Authed. Steam ID: 139206301
+afk saying yay connected.
+Client connecting (192.168.86.1:61280)
+[17:20:48]Client Authed. Steam ID: 0
+[17:20:48]Client Authed. Steam ID: 0
+[17:20:48]Client Authed. Steam ID: 0
+[17:20:48]Client Authed. Steam ID: 0
+[17:20:48]Client Authed. Steam ID: 0
+[17:20:48]Client Authed. Steam ID: 0
+[17:20:48]Client Authed. Steam ID: 0
+[17:20:48]Client Authed. Steam ID: 0
+[17:20:48]Client Authed. Steam ID: 0
+[17:20:48]Client Authed. Steam ID: 0
+[17:20:48]Client Authed. Steam ID: 0
+[17:20:56]Started Vote: VoteAddCommanderBots
+Client connected (192.168.86.1)
+[17:20:59]Client Authed. Steam ID: 34320830
+GorgeHub connected.
+[17:21:10]"Marine-683": killed by 3772
+[17:21:10][BOT] vartija was killed by [BOT] sewlek
+[17:21:15]"Lerk-3772": killed by 2212
+[17:21:15][BOT] sewlek was killed by [BOT] vartija
+[17:21:20]"Onos-2087": killed by 679
+[17:21:20][BOT] Steven G. was killed by [BOT] Railo
+[17:21:21]Vote Complete: VoteAddCommanderBots. Successful? No
+[17:21:24]"Fade-1830": killed by 2751
+[17:21:24][BOT] Rantology was killed by [BOT] Patrick8675
+Client disconnected (71.202.68.150:62938) Quit
+Client disconnected (192.168.86.1:61280) Quit
+Client connecting (71.202.68.150:62938)
+Client connected (71.202.68.150)
+[17:23:35]Client Authed. Steam ID: 139206301
+afk saying yay connected.
+Disconnected from Steam servers
+Client disconnected (71.202.68.150:62938) Timeout
+Connected to Steam servers
+VAC Enabled

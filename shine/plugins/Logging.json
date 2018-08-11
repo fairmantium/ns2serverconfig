@@ -1,0 +1,12 @@
+{
+	"LogRoundsStartEnd" : true,
+	"LogChat" : true,
+	"LogConstruction" : true,
+	"LogRecycling" : true,
+	"LogEjectVotes" : true,
+	"LogCommanderLogin" : true,
+	"LogTeamJoins" : true,
+	"LogNameChanges" : true,
+	"LogKills" : true,
+	"LogConnections" : true
+}

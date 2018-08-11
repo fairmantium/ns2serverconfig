@@ -1,0 +1,16 @@
+{
+	"KickTime" : 5,
+	"MinPlayers" : 20,
+	"MovementDelaySeconds" : 0,
+	"Delay" : 1,
+	"SampleIntervalInSeconds" : 1,
+	"OnlyCheckOnstarted" : false,
+	"IgnoreSpectators" : false,
+	"KickOnConnect" : true,
+	"KickTimeIsAFKThreshold" :  0.25,
+	"MarkPlayersAFK" : true,
+	"WarnMinPlayers" : 3,
+	"Warn" : true,
+	"WarnTime" : 3,
+	"__Version" : "1.9"
+}

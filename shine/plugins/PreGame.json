@@ -1,0 +1,9 @@
+{
+	"ShowCountdown" : true,
+	"Mode" : 4,
+	"CountdownTime" : 60,
+	"MinPlayers" : 0,
+	"AbortIfNoCom" : true,
+	"AllowAttackPreGame" : true,
+	"StartDelay" : 30
+}

@@ -1,0 +1,15 @@
+{
+    "Accepted": [],
+    "Delay": 5,
+    "MessageColour": [ 255, 255, 255 ],
+    "MessageText": [
+        "   |San Jose 14v14|   ",
+	"    |6 Spec Slots|    ",
+        "|Ryzen 2700X 4.3 Ghz| ",
+	" |8 Threaded Arch VM| ",
+        "|Gigabit Connectivity|"
+    ],
+    "Mode": 3,
+    "URL": "http://www.unknownworlds.com/ns2/",
+    "__Version": "1.2"
+}
