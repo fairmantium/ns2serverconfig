@@ -12,6 +12,6 @@
   "savestats":true,
   "show_avgteamskill":true,
   "show_playerskill":true,
-  "show_probabilityofteamvictory":true,
+  "show_probabilityofteamvictory":false,
   "show_playerskill_pregame":true
 }
